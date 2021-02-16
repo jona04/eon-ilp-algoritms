@@ -1,5 +1,4 @@
 ILP RSA algorithm Based on paper: 
 
-Routing and Spectrum Assignment in Spectrum Sliced Elastic Optical Path Network
-Mirosław Klinkowski and Krzysztof Walkowiak
+M. Klinkowski and K. Walkowiak. "Routing and Spectrum Assignment in Spectrum Sliced Elastic Optical Path Network"
 IEEE COMMUNICATIONS LETTERS, VOL. 15, NO. 8, AUGUST 2011
